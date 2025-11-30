@@ -5,10 +5,14 @@
 This repository tracks my 45-day journey to becoming a full-stack developer from scratch.  
 I am starting with basic HTML/CSS/JS, then React, then Django, and finally building a complete full-stack project.
 
+
 ---
 
 
+
 ## 📅 45-Day Plan (High-Level)
+
+
 ### **Phase 1 — Foundations (Day 1–10)**
 - HTML  
 - CSS  
@@ -38,6 +42,8 @@ I am starting with basic HTML/CSS/JS, then React, then Django, and finally build
 
 ---
 
+
+
 ## 📌 Daily Logs
 I will update this section every day.
 
@@ -48,7 +54,10 @@ I will update this section every day.
 ### **Day 2**  
 
 
+
 ---
+
+
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React  
@@ -58,10 +67,14 @@ I will update this section every day.
 
 ---
 
+
+
 ## 💪 My Goal
 To become a confident developer who can build complete applications.
 
 ---
+
+
 
 ## ✨ Stay Consistent
 Small steps daily → Big results in 45 days.
